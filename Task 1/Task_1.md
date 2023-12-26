@@ -1,5 +1,5 @@
 # Skipping Work
-
+==Time Given== 168 Hours
 Commander Lambda is all about efficiency, 
 including using her the bunny workers for manual labor. 
 But no one's been properly monitoring the labor shifts for a while and they've gotten quite mixed up. 
@@ -34,7 +34,6 @@ Output:    -4
 Input:Solution.solution({13, 5, 6, 2, 5}, {5, 2, 5, 13})
 Output:    6
 
-
 Use verify [file] to test your solution and see how it does.
 When you are finished editing your code, use submit [file] to submit your answer.
-If your solution passes the test cases, it will be removed from your home folder.
+If your solution passes the test cases, it will be removed from your home folder.  
